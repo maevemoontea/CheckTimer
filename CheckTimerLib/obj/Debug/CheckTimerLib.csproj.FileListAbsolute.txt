@@ -1,0 +1,6 @@
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerLib\bin\Debug\CheckTimerLib.dll
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerLib\bin\Debug\CheckTimerLib.pdb
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerLib\obj\Debug\CheckTimerLib.csprojResolveAssemblyReference.cache
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerLib\obj\Debug\CheckTimerLib.csproj.CoreCompileInputs.cache
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerLib\obj\Debug\CheckTimerLib.dll
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerLib\obj\Debug\CheckTimerLib.pdb

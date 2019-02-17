@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckTimer", "CheckTimer\CheckTimer.csproj", "{1E0CA833-42FC-447F-86BE-C78559118605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckTimerLib", "CheckTimerLib\CheckTimerLib.csproj", "{7ACDC294-C3CC-4696-A98F-4B0BAF000FDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckTimerTests", "CheckTimerTests\CheckTimerTests.csproj", "{3A3F4A5C-9571-41D7-A2A3-B7336D2A920F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E0CA833-42FC-447F-86BE-C78559118605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0CA833-42FC-447F-86BE-C78559118605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0CA833-42FC-447F-86BE-C78559118605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0CA833-42FC-447F-86BE-C78559118605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ACDC294-C3CC-4696-A98F-4B0BAF000FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACDC294-C3CC-4696-A98F-4B0BAF000FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACDC294-C3CC-4696-A98F-4B0BAF000FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACDC294-C3CC-4696-A98F-4B0BAF000FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3F4A5C-9571-41D7-A2A3-B7336D2A920F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3F4A5C-9571-41D7-A2A3-B7336D2A920F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3F4A5C-9571-41D7-A2A3-B7336D2A920F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3F4A5C-9571-41D7-A2A3-B7336D2A920F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA76F573-F37E-4C64-8B5E-466E0992EF82}
+	EndGlobalSection
+EndGlobal

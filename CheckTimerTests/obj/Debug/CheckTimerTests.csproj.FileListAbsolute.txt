@@ -1,0 +1,14 @@
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerTests\bin\Debug\CheckTimerTests.dll
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerTests\bin\Debug\CheckTimerTests.pdb
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerTests\bin\Debug\CheckTimer.exe
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerTests\bin\Debug\CheckTimerLib.dll
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerTests\bin\Debug\nunit.framework.dll
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerTests\bin\Debug\CheckTimerLib.pdb
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerTests\bin\Debug\CheckTimer.pdb
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerTests\bin\Debug\CheckTimer.exe.config
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerTests\bin\Debug\nunit.framework.pdb
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerTests\bin\Debug\nunit.framework.xml
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerTests\obj\Debug\CheckTimerTests.csprojResolveAssemblyReference.cache
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerTests\obj\Debug\CheckTimerTests.csproj.CoreCompileInputs.cache
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerTests\obj\Debug\CheckTimerTests.dll
+C:\Users\maeve\source\repos\CheckTimer\CheckTimerTests\obj\Debug\CheckTimerTests.pdb
